@@ -1,0 +1,316 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+arsip_digital
+</name>
+</assembly>
+<members>
+<member name="P:arsip_digital.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:arsip_digital.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:arsip_digital.My.Resources.Resources._531px_KPU_Logo_svg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:arsip_digital.My.Resources.Resources._6e8ec8f0_b5ea_4454_8266_48e3aacbc59c">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:arsip_digital.My.Resources.Resources.bf43f118_3133_49cb_8dd1_bc6f91918a3a">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:arsip_digital.My.Resources.Resources.bfaa9606_f029_467f_bc92_9d8e56d68086">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:arsip_digital.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:arsip_digital.My.Resources.Resources.menu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:arsip_digital.My.Resources.Resources.upload">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:arsip_digital.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_fileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_pengunjungDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_sub_tahapanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_tahapanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.tmp_userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_fileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_pengunjungRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_sub_tahapanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_tahapanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.tmp_userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_fileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_pengunjungRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_sub_tahapanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.t_tahapanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.tmp_userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet.userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.t_fileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.t_pengunjungTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.t_sub_tahapanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.t_tahapanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.tmp_userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(arsip_digital.db_arsipDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(arsip_digital.db_arsipDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(arsip_digital.db_arsipDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSetTableAdapters.TableAdapterManager.UpdateAll(arsip_digital.db_arsipDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_fileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_pengunjungDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_sub_tahapanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_tahapanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.tmp_userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_fileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_pengunjungRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_sub_tahapanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_tahapanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.tmp_userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_fileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_pengunjungRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_sub_tahapanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.t_tahapanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.tmp_userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1.userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.t_fileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.t_pengunjungTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.t_sub_tahapanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.t_tahapanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.tmp_userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(arsip_digital.db_arsipDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(arsip_digital.db_arsipDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(arsip_digital.db_arsipDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:arsip_digital.db_arsipDataSet1TableAdapters.TableAdapterManager.UpdateAll(arsip_digital.db_arsipDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:arsip_digital.db_arsipDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
